@@ -1,0 +1,6 @@
+C:\Mis_Cosas\RedNeuronal_ProyectoFinal\RedNeuronal_ProyectoFinal\obj\Debug\net8.0\RedNeuronal_ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mis_Cosas\RedNeuronal_ProyectoFinal\RedNeuronal_ProyectoFinal\obj\Debug\net8.0\RedNeuronal_ProyectoFinal.AssemblyInfoInputs.cache
+C:\Mis_Cosas\RedNeuronal_ProyectoFinal\RedNeuronal_ProyectoFinal\obj\Debug\net8.0\RedNeuronal_ProyectoFinal.AssemblyInfo.cs
+C:\Mis_Cosas\RedNeuronal_ProyectoFinal\RedNeuronal_ProyectoFinal\obj\Debug\net8.0\RedNeuronal_ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Mis_Cosas\RedNeuronal_ProyectoFinal\RedNeuronal_ProyectoFinal\obj\Debug\net8.0\RedNeuronal_ProyectoFinal.sourcelink.json
+C:\Mis_Cosas\RedNeuronal_ProyectoFinal\RedNeuronal_ProyectoFinal\obj\Debug\net8.0\RedNeuronal_ProyectoFinal.csproj.AssemblyReference.cache
