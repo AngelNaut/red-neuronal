@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CsvHelper.Configuration.Attributes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,10 +13,19 @@ namespace RedNeuronal_ProyectoFinal.Data
  /// </summary>
     public class IrisSample
     {
+        [Name("sepal.length")]
         public double SepalLength { get; set; }
+
+        [Name("sepal.width")]
         public double SepalWidth { get; set; }
+
+        [Name("petal.length")]
         public double PetalLength { get; set; }
+
+        [Name("petal.width")]
         public double PetalWidth { get; set; }
+
+        [Name("variety")]
         public string Species { get; set; }
 
         /// <summary>

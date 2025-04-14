@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LZTq+uQ14Eg=",
+  "dgSpecHash": "BxH34aMBiHI=",
   "success": true,
-  "projectFilePath": "C:\\Mis_Cosas\\RedNeuronal_ProyectoFinal\\RedNeuronal_ProyectoFinal\\RedNeuronal_ProyectoFinal.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Source\\Repos\\red-neuronal\\RedNeuronal_ProyectoFinal\\RedNeuronal_ProyectoFinal.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\angel\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
   ],
   "logs": []
 }

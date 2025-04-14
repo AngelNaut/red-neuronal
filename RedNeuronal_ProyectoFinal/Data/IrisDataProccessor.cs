@@ -63,9 +63,9 @@ namespace RedNeuronal_ProyectoFinal.Data
             {
                 return species switch
                 {
-                    "Iris-setosa" => new double[] { 1, 0, 0 },
-                    "Iris-versicolor" => new double[] { 0, 1, 0 },
-                    "Iris-virginica" => new double[] { 0, 0, 1 },
+                    "Setosa" => new double[] { 1, 0, 0 },
+                    "Versicolor" => new double[] { 0, 1, 0 },
+                    "Virginica" => new double[] { 0, 0, 1 },
                     _ => throw new ArgumentException("Especie desconocida")
                 };
             }

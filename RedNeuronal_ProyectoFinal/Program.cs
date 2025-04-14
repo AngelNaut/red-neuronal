@@ -23,7 +23,7 @@ namespace RedNeuronal_ProyectoFinal
             double[][] trainTargets = trainingData.Select(s => IrisDataProcessor.GetOneHotVector(s.Species)).ToArray();
 
             // 4. Definir número de épocas
-            int epochs = 1000;
+            int epochs = 2000;
 
             // 5. Ejecutar pruebas de rendimiento (sec vs. paralelo)
             PerformanceTester.TestNetworks(trainInputs, trainTargets, epochs);
